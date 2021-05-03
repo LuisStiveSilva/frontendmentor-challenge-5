@@ -34,8 +34,8 @@ Desktop
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/LuisStiveSilva/frontendmentor-challenge-5)
+- [Live Site URL](https://luisstivesilva.github.io/frontendmentor-challenge-5/)
 
 ## My process
 
@@ -65,4 +65,4 @@ I learned the background-blend-mode property. It was very useful for the image.
 ## Author
 
 - Frontend Mentor - [@luis-silva-hub](https://www.frontendmentor.io/profile/luis-silva-hub)
-- Guthub - [@LuisStiveSilva](https://github.com/LuisStiveSilva)
+- Github - [@LuisStiveSilva](https://github.com/LuisStiveSilva)
